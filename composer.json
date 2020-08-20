@@ -1,0 +1,13 @@
+{
+  "name": "caiguanrong/package-test",
+  "description": "composer package test",
+  "type": "library",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "caiguanrong",
+      "email": "caicai105230@gmail.com"
+    }
+  ],
+  "require": {}
+}
